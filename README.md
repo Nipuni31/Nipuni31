@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nipuni31&label=Profile%20views&color=0e75b6&style=flat" alt="Nipuni31" /> </p>
 
 ## About Me :
-- 🎓  I’m a **Computer Science undergraduate** at the **University of Colombo School of Computing** with a 
+- 🎓  I’m a **IT Undergraduate** at the **University of Moratuwa** with a 
      knack for **fullstack web development**
 - 🤖**Data Science** and **AI/Machine Learning** Enthusiast
 - 👨‍💻 **Fascinated by the endless possibilities of AI and machine learning – always eager to explore and innovate**
